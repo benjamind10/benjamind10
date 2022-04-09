@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benjamind10
-- 👀 I’m interested in developing my skillsets in OOP and persue a carreer in game development
+- 👀 I’m interested in working in Full-Stack applications. I primarly enjoy the backend/Nodejs 
 - 🌱 I’m currently learning JavaScript and OOP... also taking the CS50 Intro to Computer Science course.
 - 💞️ I’m looking to collaborate on projects that will develop skills to work on video game development.
 - 📫 How to reach me Discord: Shiva187#4664
