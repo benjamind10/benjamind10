@@ -2,7 +2,7 @@
 - 👀 I’m interested in working in Full-Stack applications. I primarly enjoy the backend/Nodejs 
 - 🌱 I’m currently in the process of becoming a Full Stack React Developer.. also taking the CS50 Intro to Computer Science course.
 - 💞️ I’m looking to collaborate on projects that will develop skills to work on video game development.
-- 📫 How to reach me Discord: Shiva187#4664
+- 📫 How to reach me Discord: Shiva187#4664 or via E-Mail: ben@bytebug.io
 
 <!---
 benjamind10/benjamind10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
