@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benjamind10
-- 👀 I’m interested in working in Full-Stack applications. I primarly enjoy the backend/Nodejs 
-- 🌱 I’m currently in the process of becoming a Full Stack React Developer.. also taking the CS50 Intro to Computer Science course.
-- 💞️ I’m looking to collaborate on projects that will develop skills to work on video game development.
+- 👀 I’m comfortable working in MERN applications. I primarly enjoy working with API routes and GraphQL
+- 🌱 Recently received a certificate in Full Stack Web Development.. also taking the CS50 Intro to Computer Science course.
+- 💞️ I’m looking to collaborate on projects that will develop skills in React and backend.
 - 📫 How to reach me Discord: Shiva187#4664 or via E-Mail: ben@bytebug.io
 
 <!---
