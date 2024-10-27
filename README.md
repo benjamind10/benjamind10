@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjamind10
-- 🛠️ Transitioning into the Manufacturing field, I've been extensively working with Python, Ignition, and SQL.
-- 🤖 I enjoy developing solutions that optimize manufacturing processes and drive efficiency.
-- 🎓 Currently working as a Full Stack Developer in the Manufacturing industry, where I utilize my foundation in web technologies to create and optimize manufacturing systems.
-- 💡 I'm open to collaborating on projects that leverage the power of data and automation in manufacturing or Python.
+- 🛠️ Software Engineer with a focus on Manufacturing and a deep passion for Nix/Linux. I specialize in Python, JavaScript, React, Ignition, and SQL, building and optimizing solutions for manufacturing systems.
+- 🤖 I enjoy developing full-stack solutions that streamline manufacturing processes, leverage data insights, and drive automation and efficiency.
+- 🎓 Currently working as a Full Stack Developer in the Manufacturing industry, where I use my foundation in web technologies like JavaScript and React to create user-friendly, impactful interfaces for complex manufacturing workflows.
+- 💡 Open to collaborating on projects that harness data, automation, open-source technologies, and modern web development (JavaScript, React) to create scalable solutions.
 - 📫 Reach out to me on Discord: Shiva187#4664 or via E-Mail: benjamind10@pm.me
