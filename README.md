@@ -18,13 +18,13 @@
 
 ### 🚧 Currently Working On
 
-* **Enterprise UNS Roll‑out** — 32‑site multi‑ERP architecture feeding a Snowflake lake
-* **SchemaNodeEditor** — React component for dynamic asset trees + temporary node workflow
-* **Redis‑powered Event Cog** — Refactor of my database cog for real‑time tracking & alerts
+* **Redis Discord Bot** — Modular command and event system with Redis-backed state management
+* **UNS Simulator** — React/D3-powered tool simulating MQTT Unified Namespace structures and payloads
+* **Ignition Java Module** — Custom Perspective module development with real-time metrics and scripting extensionsRefactor of my database cog for real‑time tracking & alerts
 
 ### 📚 Learning & Growth
 
-* Deep‑dive into **systems‑level C** via a green‑field engineering project
+* Deep‑dive into **systems‑level C**
 * **Advanced React** patterns (Suspense, Server Components)
 * Real‑time analytics with **Apache Flink** & Kafka
 
