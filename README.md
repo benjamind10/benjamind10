@@ -2,7 +2,7 @@
 <p align="center">
   <a href="mailto:benjamind10@pm.me"><img src="https://img.shields.io/badge/Email-benjamind10@pm.me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discordapp.com/users/Shiva187"><img src="https://img.shields.io/badge/Discord-Shiva187%234664-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=benjamind10&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+<!--   <img src="https://komarev.com/ghpvc/?username=benjamind10&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/> -->
 </p>
 
 ---
