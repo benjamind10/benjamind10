@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 * 🏭 **Manufacturing‑focused Full‑Stack Engineer** (Python | JS | React | SQL)
-* 🌐 **Industry 4.0 entusiast**: Unified Namespace, MQTT, Ignition, GraphQL
+* 🌐 **Industry 4.0 enthusiast**: Unified Namespace, MQTT, Ignition, GraphQL
 * 🐧 **Nix/Linux fan**—I automate everything I can
 * 🤝 Passionate about open‑source, data, and elegant DX
 
